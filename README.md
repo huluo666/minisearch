@@ -28,3 +28,8 @@ npm run dev
 npm run build
 ```
 
+
+
+#### 效果图
+
+![](https://github.com/huluo666/minisearch/blob/main/Resource/QQ20210608-162113@2x.png?raw=true)
